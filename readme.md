@@ -18,7 +18,7 @@ Se generó una clase de nombre `Portfolio` la cual contiene un listado de accion
 
 Se utilizó versión 16.0.0 de NodeJS para el ejercicio, bastaría instalar la misma versión o una superior para su ejecución.
 
-## Instalación 🔧
+## Instalación y ejecución 🔧
 
 - npm install
 - node prueba01.js
